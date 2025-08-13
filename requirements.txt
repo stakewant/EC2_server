@@ -1,0 +1,8 @@
+uvicorn[standard]
+python-multipart
+pydantic
+flask
+requests
+openpyxl    # Excel 불러오거나 쓸 경우 필요
+rdkit
+panda
